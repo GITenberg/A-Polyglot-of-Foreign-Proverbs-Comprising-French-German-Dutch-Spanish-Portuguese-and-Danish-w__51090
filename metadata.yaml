@@ -1,10 +1,16 @@
 _repo: A-Polyglot-of-Foreign-Proverbs-Comprising-French-German-Dutch-Spanish-Portuguese-and-Danish-w__51090
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51090-h/images/cover.jpg
 creator:
   author:
     agent_name: Bohn, Henry G.
     gutenberg_agent_id: '41839'
     url: http://www.gutenberg.org/2009/agents/41839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51090#A-Polyglot-of-Foreign-Proverbs-Comprising-French-German-Dutch-Spanish-Portuguese-and-Danish-w_
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
